@@ -70,7 +70,7 @@ header#main-header div.nav-right-side input{
     border-radius: 16px;
     color: #667581;
     font-size: 12px;
-    background: url('/images/search.svg') no-repeat 160px center;
+    background: url('images/search.svg') no-repeat 160px center;
 }
 
 header#main-header div.nav-right-side img {
@@ -100,7 +100,7 @@ div.banner {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url('/images/background_pinkman.jpg') no-repeat;
+    background: url('images/background_pinkman.jpg') no-repeat;
     background-size: 100% 500px;
     color: #FFF;
 }
